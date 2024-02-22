@@ -13,6 +13,7 @@ body {
 #back-button {
     text-decoration: none;
     position: absolute;
-    left: 5%;
-    top: 5%;
+    left: 3%;
+    top: 3%;
+    font-size: 4vh;
 }
