@@ -16,3 +16,11 @@ a {
   color: #EFB8C8;
   font-size: 5vh
 }
+
+.thumbnail {
+  height: 5vh;
+}
+
+a {
+  text-decoration: none;
+}
