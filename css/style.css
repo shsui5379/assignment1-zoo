@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Zen+Tokyo+Zoo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cute+Font&family=Zen+Tokyo+Zoo&display=swap');
+
+body {
+    font-family: "Cute Font", sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Zen Tokyo Zoo", system-ui;
+    font-size: 10vh;
+}

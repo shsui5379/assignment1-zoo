@@ -1,5 +1,17 @@
 body {
-  font-family: Gill Sans, sans-serif;
-  background-color: salmon;
-  text-align: center;
+  background-color: #1C1B1F;
+}
+
+h1 {
+  color: #D0BCFF;
+}
+
+h2 {
+  color: #CCC2DC;
+  font-size: 5vh;
+}
+
+a {
+  color: #EFB8C8;
+  font-size: 5vh
 }
