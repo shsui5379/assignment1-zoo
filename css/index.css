@@ -14,13 +14,10 @@ h2 {
 
 a {
   color: #EFB8C8;
-  font-size: 5vh
+  font-size: 5vh;
+  text-decoration: none;
 }
 
 .thumbnail {
   height: 5vh;
-}
-
-a {
-  text-decoration: none;
 }
